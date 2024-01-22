@@ -13,6 +13,10 @@
 -  이슈와 트러블슈팅 문서화
 -  기능 최적화 (어떤 것들을 도입했는지 문서화 or Read me 작성)  <br/>
 
+## 서버 아키텍처 구상 (진행중)
+![img1](https://github.com/f-lab-edu/e-verse-market/assets/115217504/59a9c8a6-73e8-47db-b743-ff2e7767af12)
+![img2](https://github.com/f-lab-edu/e-verse-market/assets/115217504/bae94268-2ba5-4f9c-99e5-c1eb02ed1289)
+
 ## 개발 기간
 - 2023/08/07 ~ <br/>
 
